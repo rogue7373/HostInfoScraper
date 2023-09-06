@@ -3,9 +3,9 @@ package main
 import (
 	"fmt"
 
-	"github.com/rogue7373/GoLangScripts/blob/main/sampleProjects/CSTechTroubleShootingTool/hostname.go"
-	"github.com/rogue7373/GoLangScripts/blob/main/sampleProjects/CSTechTroubleShootingTool/ipaddress.go"
-	"github.com/rogue7373/GoLangScripts/blob/main/sampleProjects/CSTechTroubleShootingTool/username.go"
+	"github.com/rogue7373/hostname"
+	"github.com/rogue7373/ipaddress"
+	"github.com/rogue7373/username"
 )
 
 func main() {

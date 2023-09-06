@@ -1,0 +1,6 @@
+github.com/rogue7373/hostname v0.0.0-20230906173708-6f10aa930e11 h1:GuaXHVh8UWe0XiaWVoE1GyskXftjS800ptnzGAxJ0P4=
+github.com/rogue7373/hostname v0.0.0-20230906173708-6f10aa930e11/go.mod h1:icqRId/8kRqSl2HZ/N8Lr/P+naj6yk/Vfrn/zo80txQ=
+github.com/rogue7373/ipaddress v0.0.0-20230906173717-d7c74d92fc15 h1:EAB55nc/vmOpzratJfNHlIgiQlfB7qMOwaFuK2bRM1Y=
+github.com/rogue7373/ipaddress v0.0.0-20230906173717-d7c74d92fc15/go.mod h1:Rb7D869c3iuMisWGPXoEeIka2txlJXNwqw1K3zNGDLc=
+github.com/rogue7373/username v0.0.0-20230906173653-b11c415f4a17 h1:AJHcaVDeuh8LMp0bsV2M95BTBek3jiME6yShhPlnkFA=
+github.com/rogue7373/username v0.0.0-20230906173653-b11c415f4a17/go.mod h1:Do4fZba/stdzAAdiA9/SrI75fV3YiRfXJabZMQmLny8=
